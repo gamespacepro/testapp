@@ -1,10 +1,10 @@
 {
 
 	"ads": {
-		"Bannerapplovine": "57bed4b5fd2f897b",
-		"Interapplovine": "7e48aa9074eac0c0",
-		"max_native_normal": "7caa93f680be9010",
-		"max_native_small": "db0848715d4f3cc2",
+		"Bannerapplovine": "a286967fba00eb36",
+		"Interapplovine": "cd70de270c527584",
+		"max_native_normal": "80b955449fc90565",
+		"max_native_small": "bc703c76131e3ddc",
 		"rewordapplovine": "",
 
 		"GetApp_Url": "https://forms.gle/bhap2n5LRTvvHSZs7",
